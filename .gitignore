@@ -1,11 +1,11 @@
 *.beam
-^rebar$
+rebar
 *.orig
 *.swp
-priv/log/*
+priv/log/
 .eunit.*
-deps/*
+deps/
 *.dump
-ebin/*.app
-db
-log/*
+ebin/
+db/
+log/
